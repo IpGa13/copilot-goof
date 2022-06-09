@@ -1,4 +1,4 @@
-// create a function that saves the value of element id user in a let variable named "user" and the value of element id pass in a let variable called "pass" and if user matches "jhnor" and pass matches "earthround" it redirects to the rickroll video
+// create a function that saves the value of element id user in a let variable named "user" and the value of element id pass in a let variable called "pass" and if user matches "ipga13" and pass matches "earthround" it redirects to the rickroll video
 function login() {
     let user = document.getElementById("user").value;
     let pass = document.getElementById("pass").value;
